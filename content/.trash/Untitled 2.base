@@ -1,0 +1,22 @@
+summaries:
+  Filled: values.filter(!value.isType("null")).length
+  Sum: values.sum().round(2)
+formulas:
+  Total: '["Time (Hours)"].sum()'
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.hasProperty("Time (Hours)")
+    order:
+      - file.name
+      - Time (Hours)
+      - Description
+    sort:
+      - property: formula.Total
+        direction: ASC
+    summaries:
+      Time (Hours): Median
+    columnSize:
+      note.Time (Hours): 142

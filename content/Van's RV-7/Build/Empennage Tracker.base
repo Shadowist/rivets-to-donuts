@@ -1,0 +1,22 @@
+formulas:
+  Date: file.ctime.date()
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.folder == "Van's RV-7/Build/Empennage"
+    order:
+      - date created
+      - file.name
+      - Time (Hours)
+      - Description
+    sort:
+      - property: file.name
+        direction: ASC
+      - property: formula.Date
+        direction: ASC
+    summaries:
+      Time (Hours): Sum
+    columnSize:
+      formula.Date: 111

@@ -1,0 +1,19 @@
+formulas:
+  Untitled: ""
+  Untitled 2: ""
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.folder == "Empennage Kit"
+        - file.hasProperty("Time (Hours)")
+    order:
+      - file.name
+      - Time (Hours)
+      - Description
+    sort:
+      - property: file.ctime
+        direction: ASC
+      - property: file.name
+        direction: ASC
