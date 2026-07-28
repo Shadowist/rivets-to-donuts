@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: shadowist.github.io/rivets-to-donuts
+  baseUrl: www.rivetstodonuts.com
   ignorePatterns:
     - private
     - templates
