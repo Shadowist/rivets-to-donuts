@@ -167,6 +167,34 @@ plugins:
     layout:
       position: right
       priority: 10
+    localGraph:
+      drag: true
+      zoom: true
+      depth: 1
+      scale: 1.1
+      repelForce: 0.5
+      centerForce: 0.3
+      linkDistance: 30
+      fontSize: 0.6
+      opacityScale: 1
+      removeTags: []
+      showTags: false
+      focusOnHover: true
+      enableRadial: true
+    globalGraph:
+      drag: true
+      zoom: true
+      depth: -1
+      scale: 0.9
+      repelForce: 0.5
+      centerForce: 0.3
+      linkDistance: 30
+      fontSize: 0.6
+      opacityScale: 1
+      removeTags: []
+      showTags: false
+      focusOnHover: true
+      enableRadial: true
   - source: "@quartz-community/search"
     enabled: true
     layout:
@@ -176,7 +204,7 @@ plugins:
       groupOptions:
         grow: true
   - source: "@quartz-community/backlinks"
-    enabled: true
+    enabled: false
     layout:
       position: right
       priority: 50
@@ -237,6 +265,8 @@ plugins:
       priority: 50
   - source: "@quartz-community/recent-notes"
     enabled: false
+    options:
+      showTags: false
   - source: "@quartz-community/spacer"
     enabled: true
     options: {}
