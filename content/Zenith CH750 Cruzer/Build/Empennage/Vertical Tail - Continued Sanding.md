@@ -1,4 +1,5 @@
 ---
+draft: false
 Time (Hours): 3
 description: Almost final vertical tail form blocks
 date: 2026-03-01

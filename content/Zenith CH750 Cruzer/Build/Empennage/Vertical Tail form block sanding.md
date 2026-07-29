@@ -1,4 +1,5 @@
 ---
+draft: false
 Time (Hours): 2
 description: Shaping the vertical tail form blocks
 date: 2026-02-27

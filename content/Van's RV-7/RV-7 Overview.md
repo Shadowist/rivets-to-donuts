@@ -1,4 +1,5 @@
 ---
+draft: false
 date: 2026-07-28
 tags:
  - rv7

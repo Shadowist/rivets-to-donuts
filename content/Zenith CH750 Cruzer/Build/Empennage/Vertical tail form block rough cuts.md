@@ -1,4 +1,5 @@
 ---
+draft: false
 Time (Hours): 1.5
 description: More vertical tail form block cuts
 date: 2026-02-26

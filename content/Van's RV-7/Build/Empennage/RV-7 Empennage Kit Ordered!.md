@@ -1,4 +1,5 @@
 ---
+draft: false
 Time (Hours): 0
 description: Finally placed my first kit order
 date: 2026-07-25
