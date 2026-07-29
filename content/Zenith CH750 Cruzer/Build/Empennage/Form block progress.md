@@ -1,7 +1,10 @@
 ---
 Time (Hours): 1
-Description: Started rib 1 form block
-Date Created: 2026-02-18
+description: Started rib 1 form block
+date: 2026-02-18
+tags:
+ - ch750
+ - zenith
 ---
 Slowly making progress on the first form block for the rudder! At least after gather a bunch more tools to make my life easier.
 

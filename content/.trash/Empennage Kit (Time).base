@@ -11,7 +11,7 @@ views:
     order:
       - file.name
       - Time (Hours)
-      - Description
+      - description
     sort:
       - property: file.ctime
         direction: ASC

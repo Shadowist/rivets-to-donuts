@@ -12,7 +12,7 @@ views:
     order:
       - file.name
       - Time (Hours)
-      - Description
+      - description
     sort:
       - property: formula.Total
         direction: ASC

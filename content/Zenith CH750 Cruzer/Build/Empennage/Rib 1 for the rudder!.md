@@ -1,7 +1,10 @@
 ---
 Time (Hours): 2
-Description: Fabricated rib 1
-date created: 2026-02-23
+description: Fabricated rib 1
+date: 2026-02-23
+tags:
+ - ch750
+ - zenith
 ---
 It’s not perfect by any means, but it should be usable. Some things I’ve found:
 
@@ -17,7 +20,3 @@ Update: OHHHHHH. I checked out the homebuilt help scratch build videos and saw t
 While my part is pretty flat, it looks like I could’ve gotten much tighter fillets if I clamped it the other way. I’ll continue on and plan on redoing the first rib later.
 
 ![[f2e345695541e2fac5770d776f2681ad.jpeg]]![[aa92b5da3352e55c84e8fca9858b753f.jpeg]]![[30589c601fdbb701cc6a4e3850a1eef6.jpeg]]![[337340a168cac6eedf987b5ef4663578.jpeg]]![[8d8680ef5874e96f417975775c0244cc.jpeg]]
-
-#ch750
-#empennage 
-#zenith 
