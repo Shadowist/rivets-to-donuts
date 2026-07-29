@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: rivetstodonuts.com
+  baseUrl: www.rivetstodonuts.com
   ignorePatterns:
     - private
     - templates
