@@ -8,7 +8,7 @@ views:
     name: Table
     filters:
       and:
-        - file.folder == "Zenith CH750 Cruzer/Build/Empennage"
+        - file.folder == "content/Zenith CH750 Cruzer/Build/Empennage"
     order:
       - date created
       - file.name

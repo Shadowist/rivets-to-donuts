@@ -5,7 +5,7 @@ views:
     name: Table
     filters:
       and:
-        - file.folder == "Van's RV-7/Build/Empennage"
+        - file.folder == "content/Van's RV-7/Build/Empennage"
     order:
       - date created
       - file.name
