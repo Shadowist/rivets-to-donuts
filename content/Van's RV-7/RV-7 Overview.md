@@ -9,7 +9,7 @@ tags:
 This is a blog that's documenting a Van RV-7 kit build.
 
 > [!NOTE]
-> I'm still fabricating the Zenith. Just wanted to start a more cross-country centric project as my primary focus. Instead, the Zenith CH750 Cruzer will probably take on a more specialized role. Maybe as a sea plane :)
+> I'm still fabricating the Zenith. Just wanted to start a more cross-country centric project as my primary focus. Instead, the Zenith CH750 Cruzer will probably take on a more specialized role. Maybe as a float plane :)
 
 # Mission Profile
 The mission that this build is looking to fill is a fast two-seat cross country tourer with light aerobatic capabilities. It's primary purpose is to cruise at a high enough airspeed that it doesn't take forever to get places, even with a slight head wind. Secondary purpose is to be a recreational aerobatic plane to have fun in the local pattern areas.
