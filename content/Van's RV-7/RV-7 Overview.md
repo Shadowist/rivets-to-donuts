@@ -29,6 +29,7 @@ As a list:
 At the end of it, I had two choices: the Vans RV-7 and RV-9. Since I want to be able to do aerobatics, there ended up being only one choice remaining: the **Van's RV-7**.
 
 # Empennage Tracker
+
 ![[Van's RV-7/Build/Empennage Tracker.base]]
 
 #rv7 #vans 
