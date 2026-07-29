@@ -2,8 +2,8 @@
 draft: false
 date: 2026-07-28
 tags:
- - ch750
- - zenith
+  - ch750
+  - zenith
 ---
 
 This is a blog that's documenting a Zenith CH750 Cruzer build!
