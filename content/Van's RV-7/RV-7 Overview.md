@@ -5,6 +5,7 @@ tags:
  - rv7
  - vans
 ---
+![Pilot: Lucas Delcaro - Photo: Josue de Andrade](https://www.vansaircraft.com/wp-content/uploads/2019/01/RV7A-LucasDelcaroPilot-Josue_de_AndradePhoto.jpg)
 
 This is a blog that's documenting a Van RV-7 kit build.
 

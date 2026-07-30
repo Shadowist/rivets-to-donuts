@@ -5,6 +5,7 @@ tags:
   - ch750
   - zenith
 ---
+![[Pasted image 20260730100557.png]]
 
 This is a blog that's documenting a Zenith CH750 Cruzer build!
 
