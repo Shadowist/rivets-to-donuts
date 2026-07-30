@@ -38,6 +38,52 @@ As a list:
 
 At the end of it, I had two choices: the Vans RV-7 and RV-9. Since I want to be able to do aerobatics, there ended up being only one choice remaining: the **Van's RV-7**.
 
+# Factory Specifications
+## General Specifications
+|Parameter|Value|
+|---|---|
+|**Span**|25 ft|
+|**Length**|20 ft 4 in|
+|**Height**|5 ft 10 in|
+|**Wing Area**|121 sq ft|
+|**Empty Weight**|1061 - 1114 lbs|
+|**Gross Weight**|1800 lbs|
+|**Wing Loading**|14.8 lb/sq ft|
+|**Power Loading**|12 - 9 lb/hp|
+|**Engine**|150 - 215 HP|
+|**Propeller**|Fixed or Constant-Speed|
+|**Fuel Capacity**|42 US gal|
+|**Baggage**|100 lbs
+
+## Performance Details
+### RV-7: Solo Weight 1400 lbs
+
+| Parameter                  | 160 hp    | 180 hp    | 200 hp    |
+| -------------------------- | --------- | --------- | --------- |
+| **Top Speed**              | 202 mph   | 210 mph   | 217 mph   |
+| **Cruise [75% @ 8000 ft]** | 192 mph   | 200 mph   | 207 mph   |
+| **Cruise [55% @ 8000 ft]** | 173 mph   | 180 mph   | 187 mph   |
+| **Stall Speed**            | 51 mph    | 51 mph    | 51 mph    |
+| **Takeoff Distance**       | 300 ft    | 275 ft    | 250 ft    |
+| **Landing Distance**       | 350 ft    | 350 ft    | 350 ft    |
+| **Rate of Climb**          | 1,900 fpm | 2,200 fpm | 2,550 fpm |
+| **Ceiling**                | 21,000 ft | 23,000 ft | 25,500 ft |
+| **Range [75% @ 8000 ft]**  | 835 sm    | 775 sm    | 765 sm    |
+| **Range [55% @ 8000 ft]**  | 1,025 sm  | 950 sm    | 935 sm    |
+### RV-7: Gross Weight 1800 lbs
+
+| Parameter                  | 160 hp    | 180 hp    | 200 hp    |
+| -------------------------- | --------- | --------- | --------- |
+| **Top Speed**              | 201 mph   | 209 mph   | 216 mph   |
+| **Cruise [75% @ 8000 ft]** | 191 mph   | 199 mph   | 206 mph   |
+| **Cruise [55% @ 8000 ft]** | 172 mph   | 179 mph   | 186 mph   |
+| **Stall Speed**            | 58 mph    | 58 mph    | 58 mph    |
+| **Takeoff Distance**       | 650 ft    | 575 ft    | 500 ft    |
+| **Landing Distance**       | 500 ft    | 500 ft    | 500 ft    |
+| **Rate of Climb**          | 1,400 fpm | 1,650 fpm | 1,900 fpm |
+| **Ceiling**                | 18,500 ft | 20,500 ft | 22,500 ft |
+| **Range [75% @ 8000 ft]**  | 835 sm    | 775 sm    | 765 sm    |
+| **Range [55% @ 8000 ft]**  | 1,025 sm  | 950 sm    | 935 sm    |
 # Empennage Tracker
 
 ![[RV-7 Empennage Tracker.base]]
