@@ -65,5 +65,7 @@ If I have a choice, I'd love to build that instead to get more baggage and the t
 | Rate of Climb          | 1200fpm                       |
 | Range(standard miles)  | 520 miles                     |
 | Endurance              | 4.5 hours                     |
+
+
 # Empennage Tracker
 ![[CH750 Empennage Tracker.base|CH750 Empennage Tracker]]

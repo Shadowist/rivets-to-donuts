@@ -40,20 +40,21 @@ At the end of it, I had two choices: the Vans RV-7 and RV-9. Since I want to be 
 
 # Factory Specifications
 ## General Specifications
-|Parameter|Value|
-|---|---|
-|**Span**|25 ft|
-|**Length**|20 ft 4 in|
-|**Height**|5 ft 10 in|
-|**Wing Area**|121 sq ft|
-|**Empty Weight**|1061 - 1114 lbs|
-|**Gross Weight**|1800 lbs|
-|**Wing Loading**|14.8 lb/sq ft|
-|**Power Loading**|12 - 9 lb/hp|
-|**Engine**|150 - 215 HP|
-|**Propeller**|Fixed or Constant-Speed|
-|**Fuel Capacity**|42 US gal|
-|**Baggage**|100 lbs
+| Parameter         | Value                   |
+| ----------------- | ----------------------- |
+| **Span**          | 25 ft                   |
+| **Length**        | 20 ft 4 in              |
+| **Height**        | 5 ft 10 in              |
+| **Wing Area**     | 121 sq ft               |
+| **Empty Weight**  | 1061 - 1114 lbs         |
+| **Gross Weight**  | 1800 lbs                |
+| **Wing Loading**  | 14.8 lb/sq ft           |
+| **Power Loading** | 12 - 9 lb/hp            |
+| **Engine**        | 150 - 215 HP            |
+| **Propeller**     | Fixed or Constant-Speed |
+| **Fuel Capacity** | 42 US gal               |
+| **Baggage**       | 100 lbs                 |
+
 
 ## Performance Details
 ### RV-7: Solo Weight 1400 lbs
