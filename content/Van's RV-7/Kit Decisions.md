@@ -74,3 +74,19 @@ However, it suffers from the same problem the Lockwood kit has: **price**. The o
 Finally, EdgePerformance flags their engines as not suitable for aerobatics. From the manual:
 
 > This engine is not suitable for aerobatics, inverted flight, sustained zero G or attitudes exceeding 35° pitch and 60° bank.
+
+# Priming
+While we live in Arizona and don't deal with a lot of corrosion, we do have family along the east coast. My intention with the RV-7 is to routinely travel to New Jersey to visit family. Likewise, probably travel to Florida as well to visit Maria's folks (and explore down there).
+
+Considering the amount of money I'm pouring into the Van's and likely won't see crazy amounts beyond that from work, this would be the main plane I could fly and afford. Thus, I want to make sure I get 30+ years out of this plane when it's done. Unless I miraculously come across a bunch of money and can build that just-announced Sling Twin ;)
+
+So, the game plan is to prime the aircraft! Priming or not is a massive debate in the Van's community. Even more so is how to go about priming.
+
+My game plan is to assemble and fit all the parts first except for dimpling. Then disassemble, clean, prime, and cure the parts. Then dimple, refit, and rivet.
+
+## Stewart Systems
+This company offers a few products that metal plane builders can use: **EkoEtch**, **EkoPrime** and **EkoPoxy**.
+
+From what I understand, their system is as non-toxic as it gets. It can be cleaned up with water and anything that's not used can be **put right back in the can**. No waste! The only thing to keep in mind is EkoPrime is not solvent resistant. Meaning, it can't be in contact with fuels and whatnot. So, that would be used for interior surfaces. EkoPoxy can be used in contact with solvents, but has a 3-5 hour pot life.
+
+https://stewartsystems.aero/wp-content/uploads/Which-Primer-To-Use.pdf
