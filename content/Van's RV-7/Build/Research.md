@@ -60,7 +60,7 @@ The IO-360 is fuel injected as well, which should help with fuel costs and such.
 Downside: it's still *expensive*. Granted, you can find overhauls and reman engines for much cheaper.
 
 ## Rotax 916
-Yes, it only makes 160HP. But [Lockwood aviation actually makes an RV-9 kit](https://www.rv916.com)! The performance numbers at altitude are quite stunning. Unfortunately, the cost is also stunning. For the Lycoming, I'm looking at around $80k for the engine, prop, and firewall forward kit. The Rotax package would be **$120,000**.
+Yes, it only makes 160HP. But [Lockwood aviation actually makes an RV-9 kit](https://www.rv916.com)! The performance numbers at altitude are quite stunning. Unfortunately, the cost is also stunning. For the Lycoming, I'm looking at around 80k for the engine, prop, and firewall forward kit. The Rotax package would be **120,000USD**.
 
 While I would love a Rotax, this is pretty cost-prohibitive. At least unless I win the lottery (or my Rans sells for A LOT more).
 
@@ -69,7 +69,7 @@ On the plus side, I should be able to run 91E10 mogas for those local flights!
 ## EdgePerformance EP918Ti
 The 185HP modification of a Rotax 916. Getting to the same horsepower as a Lycoming IO-360 would result in some amazing performance numbers. Being able to maintain that horsepower up to 15k feet? That would be fantastic for cross country touring.
 
-However, it suffers from the same problem the Lockwood kit has: **price**. The other EdgePerformance engines are modifications of lower horsepower engines, so costs are pretty relative. This engine is $10k more expensive than the Rotax 916 ($50k for the 916). On top of that, it still needs the entire firewall forward package.
+However, it suffers from the same problem the Lockwood kit has: **price**. The other EdgePerformance engines are modifications of lower horsepower engines, so costs are pretty relative. This engine is 10k more expensive than the Rotax 916 (50k for the 916). On top of that, it still needs the entire firewall forward package.
 
 Finally, EdgePerformance flags their engines as not suitable for aerobatics. From the manual:
 
