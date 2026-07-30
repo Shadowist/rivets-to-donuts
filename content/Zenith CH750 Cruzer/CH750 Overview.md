@@ -33,5 +33,37 @@ Zenith recently announced the CH750 Super Cruzer this year. Basically their Supe
 
 If I have a choice, I'd love to build that instead to get more baggage and the third seat. Then again, Zenith hasn't really made their 750 model plans available. Not holding out much hope they'll release those anytime soon.
 
+# Factory Specifications
+
+| **Specifications**         | **Zenith CH750 Cruzer** |
+| -------------------------- | ----------------------- |
+| Wing Span                  | 29ft 9in                |
+| Wing Area                  | 144 sq.ft.              |
+| Length                     | 23ft 3in                |
+| Horizontal Tail Span       | 8ft 0in                 |
+| Rudder Tip Height          | 9ft 2in                 |
+| Empty Weight               | 780lbs                  |
+| Design Gross Weight        | 1440lbs                 |
+| Gross Weight (LSA)         | 1320lbs                 |
+| Useful Load (LSA)          | 540lbs                  |
+| Wing Loading (LSA)         | 9.15psf                 |
+| Power Loading              | 13.2lbs/bhp             |
+| Never Exceed Speed (VNE)   | 145mph                  |
+| Fuel Capacity              | 30 Gal.                 |
+| Cabin Width                | 42in                    |
+| Cabin Width (bubble doors) | 50in                    |
+| Load Factor (G) ultimate   | +6/-3 g                 |
+| Suitable Power             | 80-160hp                |
+| Max Engine Weight          | 300lbs                  |
+
+| **Performance**        | **Continental O-200 (100hp)** |
+| ---------------------- | ----------------------------- |
+| Take-off Roll          | 350ft                         |
+| Landing Roll           | 350ft                         |
+| Cruise (75% Sea Level) | 118mph                        |
+| Stall Speed            | 39mph                         |
+| Rate of Climb          | 1200fpm                       |
+| Range(standard miles)  | 520 miles                     |
+| Endurance              | 4.5 hours                     |
 # Empennage Tracker
 ![[CH750 Empennage Tracker.base|CH750 Empennage Tracker]]
