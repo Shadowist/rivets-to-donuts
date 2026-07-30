@@ -42,3 +42,35 @@ However, I can't help but want this plane to do something a little different. Eq
 - Tougher to sell
 
 I'm mostly leaning towards a tail dragger. It'll make me a better pilot by forcing me to stay on the controls. Likewise, I've been leaning towards a mogas-capable engine configuration, but that limits me to the 180hp lycoming. The taildragger would get me better performance out of that!
+
+# Engine Choice
+While I would *love* to put in a Rotax, there's not really anything within the horsepower range. The turbo would be amazing for cross country travel, but I would have to potentially limit *aerobatics* in the plane. I believe negative g-forces are limited to 5 seconds (which to be fair, is a *long* time).
+
+The RV-7 can take horsepower ranges from 150-215HP. For this project, only considering engines with 180HP and above.
+
+At this time, really only considering the Lycoming IO-360 since it's very much supported by Vans. Anything higher horsepower in terms of Lycoming would add weight to the front and costs tons more. If I do consider a 200HP+ Lycoming, I might as well seriously consider the EP918Ti and fabricated the firewall forward myself.
+
+# Lycoming IO-360
+This is the most likely candidate. It's one of the engines that Vans designed the aircraft for and is well supported. Vans has a firewall forward kit available and all the fixin's. Specifically, this is the 180HP parallel valve engine.
+
+Since it's an older aviation design, it's pretty simple in operation and maintenance. Parts are everywhere for it too. It also can be configured for aerobatics with an inverted oil cooler modification.
+
+The IO-360 is fuel injected as well, which should help with fuel costs and such. No need to balance carbs :')
+
+Downside: it's still *expensive*. Granted, you can find overhauls and reman engines for much cheaper.
+
+## Rotax 916
+Yes, it only makes 160HP. But [Lockwood aviation actually makes an RV-9 kit](https://www.rv916.com)! The performance numbers at altitude are quite stunning. Unfortunately, the cost is also stunning. For the Lycoming, I'm looking at around $80k for the engine, prop, and firewall forward kit. The Rotax package would be **$120,000**.
+
+While I would love a Rotax, this is pretty cost-prohibitive. At least unless I win the lottery (or my Rans sells for A LOT more).
+
+On the plus side, I should be able to run 91E10 mogas for those local flights! 
+
+## EdgePerformance EP918Ti
+The 185HP modification of a Rotax 916. Getting to the same horsepower as a Lycoming IO-360 would result in some amazing performance numbers. Being able to maintain that horsepower up to 15k feet? That would be fantastic for cross country touring.
+
+However, it suffers from the same problem the Lockwood kit has: **price**. The other EdgePerformance engines are modifications of lower horsepower engines, so costs are pretty relative. This engine is $10k more expensive than the Rotax 916 ($50k for the 916). On top of that, it still needs the entire firewall forward package.
+
+Finally, EdgePerformance flags their engines as not suitable for aerobatics. From the manual:
+
+> This engine is not suitable for aerobatics, inverted flight, sustained zero G or attitudes exceeding 35° pitch and 60° bank.
