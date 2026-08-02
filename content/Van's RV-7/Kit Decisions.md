@@ -82,7 +82,7 @@ Considering the amount of money I'm pouring into the Van's and likely won't see 
 
 So, the game plan is to prime the aircraft! Priming or not is a massive debate in the Van's community. Even more so is how to go about priming.
 
-My game plan is to assemble and fit all the parts first except for dimpling. Then disassemble, clean, prime, and cure the parts. Then dimple, refit, and rivet.
+My game plan is to assemble and fit all the parts first except for dimpling. Then disassemble, clean, prime, and cure the parts. Then dimple, refit, and rivet. 
 
 ## Stewart Systems
 This company offers a few products that metal plane builders can use: **EkoEtch**, **EkoPrime** and **EkoPoxy**.

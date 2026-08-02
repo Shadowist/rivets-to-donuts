@@ -85,6 +85,7 @@ At the end of it, I had two choices: the Vans RV-7 and RV-9. Since I want to be 
 | **Ceiling**                | 18,500 ft | 20,500 ft | 22,500 ft |
 | **Range [75% @ 8000 ft]**  | 835 sm    | 775 sm    | 765 sm    |
 | **Range [55% @ 8000 ft]**  | 1,025 sm  | 950 sm    | 935 sm    |
+
 # Empennage Tracker
 
 ![[RV-7 Empennage Tracker.base]]
