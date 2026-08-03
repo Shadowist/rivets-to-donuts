@@ -90,3 +90,29 @@ This company offers a few products that metal plane builders can use: **EkoEtch*
 From what I understand, their system is as non-toxic as it gets. It can be cleaned up with water and anything that's not used can be **put right back in the can**. No waste! The only thing to keep in mind is EkoPrime is not solvent resistant. Meaning, it can't be in contact with fuels and whatnot. So, that would be used for interior surfaces. EkoPoxy can be used in contact with solvents, but has a 3-5 hour pot life.
 
 https://stewartsystems.aero/wp-content/uploads/Which-Primer-To-Use.pdf
+
+# Kit Options
+
+## Empennage
+Standard parts:
+- Electric Elevator Trim
+## Wings
+Order parts
+- Landing Light Kit
+## Fuselage
+Standard parts:
+- Electric Flaps
+- Electric Aileron Trim
+- Dual Brakes 
+- Static Air Kit
+
+Options:
+- [Almost RV-14 seat mod](https://antisplataero.com/product/almost-a-rv14-seat-mod/)
+	- I'm certainly not a 6'+ pilot or a big dude by any means, but this would add a ton of resale value. More pilots and passengers can fit in it!
+	- Does have an option to go back to the original seating position.
+	- Use nut plates and be able to remove the cross bar with the seats. Much easier condition inspections!
+
+## Finishing Kit
+Options:
+- [Slider canopy track extension](https://www.flyboyaccessories.com/shop/supertracks-canopy-track-extension-17254#attribute_values=14337)
+	- Anything to get easier baggage access! It's alright in the Rans S-19, but would love to have unrestricted access.
