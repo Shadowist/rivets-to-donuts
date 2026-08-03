@@ -98,7 +98,8 @@ Standard parts:
 - Electric Elevator Trim
 ## Wings
 Order parts
-- Landing Light Kit
+- [Light kit from FlyLEDs](https://flyleds.com/products/#!/The-Works-Wingtip-Lighting-Kit/p/105662651)
+- [Maybe the tail light too](https://flyleds.com/products/#!/Tail-Light-kit-model/p/48165109/category=0)
 ## Fuselage
 Standard parts:
 - Electric Flaps
