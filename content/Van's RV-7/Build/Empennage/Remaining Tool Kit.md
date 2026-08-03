@@ -1,11 +1,11 @@
 ---
 draft: false
 Time (Hours): 0
-description: Ordered rest of tool kit
+description: Ordered the rest of the tool kit
 date: 2026-08-02
 tags:
- - rv7
- - vans
+  - rv7
+  - vans
 ---
 
 So, I actually went down this route a few years ago before I bought the Rans S-19.
