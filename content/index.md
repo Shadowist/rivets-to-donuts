@@ -15,11 +15,11 @@ Probably the best way to peruse my build log: go to the overview note and look a
 
 With that, here are the two overviews!
 
-Plans Building
-[[CH750 Overview]]
-
 Kit Building
 [[RV-7 Overview]]
+
+Plans Building
+[[CH750 Overview]]
 
 For those curious, here are my current certifications:
 ### Flying Certifications
