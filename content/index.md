@@ -16,7 +16,7 @@ Probably the best way to peruse my build log: go to the overview note and look a
 With that, here are the two overviews!
 
 Kit Building
-[[RV-7 Overview]]
+[[Sonex A-Model Overview]]
 
 Plans Building
 [[CH750 Overview]]
