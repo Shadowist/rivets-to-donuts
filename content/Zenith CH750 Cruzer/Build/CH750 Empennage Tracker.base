@@ -1,0 +1,18 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.folder == "Zenith CH750 Cruzer/Build/Empennage"
+    order:
+      - date
+      - file.name
+      - Time (Hours)
+      - description
+    sort:
+      - property: date
+        direction: DESC
+    summaries:
+      Time (Hours): Sum
+    columnSize:
+      formula.Date: 111
