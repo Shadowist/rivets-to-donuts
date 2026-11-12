@@ -180,4 +180,4 @@ _Note: All models meet FAA Sport Pilot Regulations at maximum continuous power a
 **(2)** Gross Weight of 1220 lbs approved for all engines producing 100 hp or greater.
 # Empennage Tracker
 
-![[RV-7 Empennage Tracker.base]]
+![[Sonex Empennage Tracker.base]]
