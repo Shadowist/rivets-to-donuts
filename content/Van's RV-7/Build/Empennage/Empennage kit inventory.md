@@ -13,7 +13,7 @@ Anyway, here are a whole pile of pictures from the inventory! It took around 4 h
 
 Although I paid a $500 premium only to look at the darn kit (taxes and shipping), it was immensely useful seeing what production parts look like. It gives me something to strive for in my own fabrication.
 
-![[rv7-emp-packing-list-redacted.pdf]]
+![[rv7-emp-packing-list-redacted 1.pdf]]
 
 ![[IMG_1050.jpeg]]
 
