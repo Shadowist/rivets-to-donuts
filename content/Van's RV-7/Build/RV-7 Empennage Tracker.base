@@ -10,9 +10,9 @@ views:
       - Time (Hours)
       - description
     sort:
-      - property: file.name
-        direction: DESC
       - property: date
+        direction: DESC
+      - property: file.name
         direction: DESC
     summaries:
       Time (Hours): Sum
