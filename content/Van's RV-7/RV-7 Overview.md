@@ -12,15 +12,11 @@ This is a blog that's documenting a Van RV-7 kit build.
 > [!NOTE]
 > I'm still fabricating the Zenith. Just wanted to start a more cross-country centric project as my primary focus. Instead, the Zenith CH750 Cruzer will probably take on a more specialized role. Maybe as a float plane :)
 
-> [!Project Cancelled]
-> Life has a funny way of working out and it looks like I'll have to sell the tail kit when it arrives. It's mainly economic pressure. I have bonuses from projects coming in, but building the RV-7 will leave us with basically no savings left. Considering I work in a pretty volatile industry, it would be better to work on the scratch build projects and hold onto those funds for an emergency.
+> [!NOTE]
 > 
-> Instead, I'll be looking into scratch building a Sonex A-model to scratch that similar mission profile. Just smaller and less baggage I can carry.
-> 
-> I do want to come back to the Vans aircraft in the future, especially since I have everything I need to build one. We'll see what the future brings.
+> You may notice a project with a more restrictive but similar mission profile: the Sonex plans build. That exists because the RV-7 build is incredibly expensive in comparison. In effort to keep myself in the air at all times, my plan is to build the Sonex as the inexpensive build, then eventually build the RV-7 as my cross country plane!
 
-
-# Mission Profile
+# Mission **Profile**
 The mission that this build is looking to fill is a fast two-seat cross country tourer with light aerobatic capabilities. It's primary purpose is to cruise at a high enough airspeed that it doesn't take forever to get places, even with a slight head wind. Secondary purpose is to be a recreational aerobatic plane to have fun in the local pattern areas.
 
 As a list:
